@@ -1,0 +1,36 @@
+_repo: A-Canyon-Voyageon-Land-in-the-Years-1871-and-1872_20667
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dellenbaugh, Frederick Samuel
+    alias: Dellenbaugh, Frederick S.
+    birthdate: 1853
+    deathdate: 1935
+    gutenberg_agent_id: '1437'
+    url: http://www.gutenberg.org/2009/agents/1437
+description: ''
+gutenberg_issued: '2007-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Powell, John Wesley, 1834-1902'
+- !lcsh 'United States -- Discovery and exploration'
+- !lcsh 'Grand Canyon (Ariz.)'
+- !lcsh 'Colorado River (Colo.-Mexico)'
+- !lcc 'F786'
+title: 'A Canyon Voyage
+
+  The Narrative of the Second Powell Expedition down the
+
+  Green-Colorado River from Wyoming, and the Explorations
+
+  on Land, in the Years 1871 and 1872'
+url: http://www.gutenberg.org/ebooks/20667
